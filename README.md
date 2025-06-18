@@ -10,9 +10,20 @@
 - 🧠 I love building user friendly interfaces and responsive web apps!
 - 🧩 Constantly exploring new tools, frameworks, and AI-powered experiments.
 - 📚 Currently learning: TypeScript, React, APIs and DevOps basics!
-- ☕ Coffee helps me keep going 
+- ☕ Coffee helps me keep going
+
+  
+---
+
+## 🌐 Connect me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okayydhanya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanya-kalita-168b95239/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanyak4580@gmail.com)
+
+
 
 ---
+
 # 🧠 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,8 +38,10 @@
 
 ---
 
+
 # 💻 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/okayydhanya?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/okayydhanya)
+
 
 ---
 
@@ -38,6 +51,7 @@
 - 🏅 [AWS AI/ML (AICTE)](https://drive.google.com/file/d/1KaR9Tb9VKZaDKiibXKX44j8W-8sS41MO/view?usp=drive_link)
 
 ---
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hexy01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -54,9 +68,21 @@
 
 ---
 
-## 🌐 Connect me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okayydhanya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanya-kalita-168b95239/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanyak4580@gmail.com)
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100">
+</p>
+
+<h3 align="center">
+  Thanks for stopping by! <br/>
+  Let's build something amazing together 💻🌅☕🐱
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Hexy01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Hexy01-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">✨ Keep exploring. Keep creating. ✨</p>
 
 ---
