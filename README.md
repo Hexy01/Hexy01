@@ -68,13 +68,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100">
-</p>
-
 <h3 align="center">
-  Thanks for stopping by! <br/>
-  Let's build something amazing together 💻🌅☕🐱
+  Thanks for stopping by! 💻🌅☕🐱 <br/>
 </h3>
 
 <p align="center">
@@ -83,6 +78,5 @@
   </a>
 </p>
 
-<p align="center">✨ Keep exploring. Keep creating. ✨</p>
 
 ---
