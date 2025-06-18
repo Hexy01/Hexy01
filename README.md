@@ -1,9 +1,7 @@
 <!-- Fun GIF at the top -->
-<p align="center">
-  <img src="" width="200px">
-</p>
-
-<h1 align="center">Heya, This is Dhanya!🌸</h1>
+<h1 align="center">Heya, This is Dhanya!🌸
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="40" style="vertical-align: middle;">
+</h1>
 
 ---
 
@@ -15,15 +13,7 @@
 - ☕ Coffee helps me keep going 
 
 ---
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okayydhanya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanya-kalita-168b95239/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanyak4580@gmail.com)
-
----
-
-# 💻 Tech Stack:
+# 🧠 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +27,7 @@
 
 ---
 
-# 🧠 LeetCode Stats
+# 💻 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/okayydhanya?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/okayydhanya)
 
 ---
@@ -62,4 +52,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=Hexy01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🌐 Connect me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okayydhanya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanya-kalita-168b95239/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanyak4580@gmail.com)
+
+---
