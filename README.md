@@ -6,7 +6,7 @@
 ---
 
 ## ✨ About Me
-
+- 💻 Pursing B.Tech in CSE at Kalinga Institute of Industrial Technology, Bhubaneswar.
 - 🧠 I love building user friendly interfaces and responsive web apps!
 - 🧩 Constantly exploring new tools, frameworks, and AI-powered experiments.
 - 📚 Currently learning: TypeScript, React, APIs and DevOps basics!
