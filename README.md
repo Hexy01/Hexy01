@@ -3,7 +3,7 @@
   <img src="" width="200px">
 </p>
 
-<h1 align="center">Hi, This is Dhanya!🌸</h1>
+<h1 align="center">Heya, This is Dhanya!🌸</h1>
 
 ---
 
