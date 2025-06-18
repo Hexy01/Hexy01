@@ -1,3 +1,22 @@
+<!-- Fun GIF at the top -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZxZ3ZkZWIxM3I1a29pbDVjbmZyZzBxemFkc2s3YzQ4N3h4d3k0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="200px">
+</p>
+
+<h1 align="center">Hi, I'm Dhanya Kalita! 🌸</h1>
+
+---
+
+## ✨ About Me
+
+- 🧠 I love building full-stack web apps and solving DSA problems for fun!
+- ☕ Addicted to coffee, sunsets, and random tech documentaries.
+- 🧩 Constantly exploring new tools, frameworks, and AI-powered experiments.
+- 📚 Currently learning: TypeScript, React, and DevOps basics!
+- 🐱 Cat person. Will judge you if you don’t like them. 😼
+
+---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okayydhanya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhanya%20Kalita)
