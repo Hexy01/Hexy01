@@ -1,25 +1,24 @@
 <!-- Fun GIF at the top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZxZ3ZkZWIxM3I1a29pbDVjbmZyZzBxemFkc2s3YzQ4N3h4d3k0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="200px">
+  <img src="" width="200px">
 </p>
 
-<h1 align="center">Hi, I'm Dhanya Kalita! 🌸</h1>
+<h1 align="center">Hi, This is Dhanya!🌸</h1>
 
 ---
 
 ## ✨ About Me
 
-- 🧠 I love building full-stack web apps and solving DSA problems for fun!
-- ☕ Addicted to coffee, sunsets, and random tech documentaries.
+- 🧠 I love building user friendly interfaces and responsive web apps!
 - 🧩 Constantly exploring new tools, frameworks, and AI-powered experiments.
-- 📚 Currently learning: TypeScript, React, and DevOps basics!
-- 🐱 Cat person. Will judge you if you don’t like them. 😼
+- 📚 Currently learning: TypeScript, React, APIs and DevOps basics!
+- ☕ Coffee helps me keep going 
 
 ---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okayydhanya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhanya%20Kalita)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanya-kalita-168b95239/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanyak4580@gmail.com)
 
 ---
@@ -44,15 +43,14 @@
 ---
 
 # 📜 Certifications
-- 🏅 [Meta Front-End Developer Professional Certificate (Coursera)](https://www.coursera.org/account/accomplishments/specialization/ABC123)
-- 🏅 [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/specialization/XYZ456)
-- 🏅 [AWS Cloud Practitioner Essentials](https://aws.training/Details/Curriculum?id=ABC789)
+- 🏅 [Full Stack Web Development](https://www.udemy.com/certificate/UC-fc4b1185-fbca-4560-b99d-5f6a00d1b39b/)
+- 🏅 [Complete SQL BootCamp](https://www.udemy.com/certificate/UC-312f0898-40b2-4e66-ae02-ddde1a4eb3b9/)
+- 🏅 [AWS AI/ML (AICTE)](https://drive.google.com/file/d/1KaR9Tb9VKZaDKiibXKX44j8W-8sS41MO/view?usp=drive_link)
 
 ---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hexy01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hexy01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hexy01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
